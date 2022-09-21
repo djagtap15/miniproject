@@ -1,0 +1,80 @@
+{
+  "question": [
+    "Q1. The Battle of Plassey was fought in",
+    "Q2. Which among the following movements started with breaking the salt law?",
+    "Q3. Who among the following is known as Mother of Indian Revolutionaries ?",
+    "Q4. Which among the following regions was most affected by the Revolution of 1857 ?",
+    "Q5. Who was the first English President of Indian National Congress?",
+    "Q6. In which of the languages Mahatma Gandhi published newspapers with the name Harijans ?",
+    "Q7. Who established Passive Resistance Association in South Africa?",
+    "Q8. First World War started in which year?",
+    "Q9. Who gave the slogan “Inquilab Zindabad”?",
+    "Q10. To which professions earlier leaders who struggled for freedom of India mainly belonged??"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    3,
+    2,
+    4,
+    1,
+    3,
+    2,
+    4
+  ],
+  "options": [
+
+    ["1757",
+      "1782",
+      "1748",
+      "1764"
+    ],
+    ["Non-cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Home Rule Movement"
+    ],
+    [" Annie Besant",
+      "Sarojini Naidu",
+      "Madam Cama",
+      "Usha Mehta"
+    ],
+    ["Punjab",
+      "Maharastra",
+      "Awadh",
+      "Madras"
+    ],
+    [" William Wedderburn",
+      "George Yule",
+      "A O Hume",
+      "Henery Cotton"
+    ],
+     ["English only",
+      "Hindi & English",
+      "English & Gujarati",
+      "English, Hindi & Gujarati"
+    ],
+    ["Mahatma Gandhi",
+      "Aurobondo Ghosh",
+      "Bipin Chandra Paul",
+      "Gopal Krishna Gokhale"
+    ],
+    ["1905",
+      "1911",
+      "1914",
+      "1918"
+    ],
+    ["Chandra Shekhar Azad",
+      "Bhagat Singh",
+      "Subhash Chandra Bose",
+      "Iqbal"
+    ],
+    ["lawyers",
+      "teachers",
+      "Journalists",
+      "All of the above"
+    ]
+
+  ]
+}

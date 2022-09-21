@@ -1,0 +1,81 @@
+{
+
+  "question": [
+    "Q1. What Indian city is the capital of two states?",
+    "Q2. Which city is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+    "Q5. what is Capital of Maharashtra?",
+    "Q6. What is Capital of Madhya Pradesh?",
+    "Q7. how many states are there in  India?",
+    "Q8. Where Gate Of India Exists?",
+    "Q9. Whats is Rank of Indian Army in World?",
+    "Q10. Which City is called as Oxford Of East?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1
+  ],
+  "options": [
+
+    ["Chandigarh",
+      "Kolkata",
+      "Delhi",
+      "Banglore"
+    ],
+    ["Jaipur",
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    ["Rajasthan",
+      "Punjab",
+      "Goa",
+      "Bihar"
+    ],
+    ["Lucknow",
+      "Agra",
+      "Bhopal",
+      "Delhi"
+    ],
+    ["Mumbai",
+      "Pune",
+      "Nasik",
+      "Aurangabad"
+    ],
+     ["Bhopal",
+      "Indore",
+      "lakhnao",
+      "Surat"
+    ],
+    ["27",
+      "29",
+      "20",
+      "39"
+    ],
+    ["Mumbai",
+      "Pune",
+      "Delhi",
+      "Noida"
+    ],
+    ["First",
+      "Second",
+      "Fourth",
+      "Third"
+    ],
+    ["Pune",
+      "Mumbai",
+      "Banglore",
+      "Ahmedabad"
+    ]
+
+  ]
+}

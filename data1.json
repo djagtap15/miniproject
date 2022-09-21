@@ -1,0 +1,81 @@
+{
+  "question": [
+    "Q1.How is an array initialized in C language?",
+    "Q2. How is the 3rd element in an array accessed based on pointer notation?",
+    "Q3. How are String represented in memory in C",
+    "Q4. What does => int x: 8;  declaration indicate",
+    "Q5. Which of the following is an exit controlled loop?",
+    "Q6. What is the size of the int data type (in bytes) in C?",
+    "Q7. How to declare a double-pointer in C?",
+    "Q8. Which of the following are not standard header files in C ?",
+    "Q9. In which of the following languages is function overloading not possible?",
+    "Q10. Which of the following is not a storage class specifier in C?"
+  ],
+  "answer": [
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    2,
+    4,
+    1,
+    1
+  ],
+  "options": [
+
+    [ "int a[3]={1,2,3}",
+      "int a = {1,2,3}",
+      "int a[] = new int[3]",
+      "int a(3)=[1,2,3];"
+    ],
+    ["*a + 3",
+      "*(a+3)",
+      "*(*a+3)",
+      "&(a+3)"
+    ],
+    ["an array of characters",
+      "the objects of some class",
+      "same as other primitive data types",
+      "Linked list of characters"
+    ],
+    ["x stores value of 8",
+      "x is an 8 bit integer",
+      "both above",
+      "None of the above"
+    ],
+    ["while",
+      "for",
+      "do-while",
+      "none of the above"
+    ],
+    [ "4",
+      "2",
+      "1",
+      "8"
+    ],
+     ["int *val",
+      "int **val",
+      "int &val",
+      "int *&val"
+    ],
+    ["stdio.h",
+      "stdlib.h",
+      "conio.h",
+      "none of the above "
+    ],
+    ["C",
+      "C++",
+      "JAVA",
+      "Python"
+    ],
+    ["volatile",
+      "extern",
+      "typedef",
+      "static"
+    ]
+
+
+  ]
+}

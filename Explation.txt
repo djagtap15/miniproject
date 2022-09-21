@@ -1,0 +1,7 @@
+Face Fraud Detection
+
+Step 1.  Face detection using opencv library haarcascade_frontalface_default.xml.
+Step 2.  Crop user face's 100 images  for the training and store by user's name and id  in folder TrainingImageLabel and also      
+         details store in Studentdetails.csv file
+Step 3.  For the face recognisation training  we will extract LBP (Local Binary Pattern) feature from perticular user's crop face
+Step 4.  Fraud detection will be detect using  lbp + svm algorithm
